@@ -14,9 +14,6 @@ Thanks for stopping by and hope this code is helpful, please write if there are 
 # Sources 
 https://www.rma.usda.gov/tools-reports/summary-of-business/livestock-dairy-participation
 
-# Sources 
-https://mymarketnews.ams.usda.gov/
-
 # How to use
 - Ensure Python and all packages used are downloaded
 - Place the files where you wish to save the contents
