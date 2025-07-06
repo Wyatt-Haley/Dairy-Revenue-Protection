@@ -7,6 +7,10 @@ Dairy-RP was introduced in 2018 and is designed to help producers combat the vol
 # Files
 This is an ongoing project, the current files are:
 data pull1.1.py - Python file to pull data from the USDA RMA and data transformation for regressions.
+logitnmore1.2.py - Python file to run the logistic regression.
+logit_summary - Text file of logistic regresion output
+logit_marginal_effects - Text file of the varaiable marginal effects
+
 
 # Thanks!
 Thanks for stopping by and hope this code is helpful, please write if there are any suggestion or questions!
@@ -18,4 +22,6 @@ https://www.rma.usda.gov/tools-reports/summary-of-business/livestock-dairy-parti
 - Ensure Python and all packages used are downloaded
 - Place the files where you wish to save the contents
 - Open or run the data pull1.1.py file
+- Open or run the logitnmore1.2.py file
+- Can view results in the txt docs created
  
